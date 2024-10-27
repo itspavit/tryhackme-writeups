@@ -1,5 +1,8 @@
 # TryHackMe - Crack the Hash
 
+### Author
+**Pavitpal Singh Bhagat**
+
 This repository contains solutions for the **Crack the Hash** room on TryHackMe, which involves identifying and cracking various hashes using tools like **Hashcat**, **CrackStation**, and **Hashes.com**.
 
 - **Room URL**: [TryHackMe - Crack the Hash](https://tryhackme.com/r/room/crackthehash)
