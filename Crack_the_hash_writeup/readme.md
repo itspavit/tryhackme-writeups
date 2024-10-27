@@ -1,4 +1,4 @@
-URL - https://tryhackme.com/r/room/crackthehash
+**URL - https://tryhackme.com/r/room/crackthehash**
 
 
 Task 1
@@ -16,7 +16,8 @@ Note: try to find hashcat modes (algorithms that should be used) by visting hash
 Can you complete the level 1 tasks by cracking the hashes?
 
 
-Answer the questions below
+**Answer the questions below**
+
 1) 48bb6e862e54f2a795ffc4e541caed4d
 solution) used crackstation and input the above hash there it will convert it to our answer "easy"
 
@@ -57,7 +58,7 @@ solution)  used crackstation and input the above hash there it will convert it t
 
 
 
-Task 2
+**Task 2**
 Level 2
 This task increases the difficulty. All of the answers will be in the classic rock you password list.
 
