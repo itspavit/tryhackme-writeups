@@ -1,5 +1,8 @@
 # TryHackMe - Capture The Flag
 
+### Author
+**Pavitpal Singh Bhagat**
+
 This repository contains solutions for the **Capture The Flag** room on TryHackMe, covering techniques such as translation, encoding, steganography, and more.
 
 - **Room URL**: [TryHackMe - Capture The Flag](https://tryhackme.com/r/room/c4ptur3th3fl4g)
